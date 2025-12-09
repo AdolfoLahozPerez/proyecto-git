@@ -52,7 +52,7 @@ proyecto-git/
 
 ## Mejoras Implementadas
 
-    #1. # Menú de Navegación
+    1. Menú de Navegación
 
 .   Rama: feature/menu-navegacion
 
@@ -64,7 +64,7 @@ proyecto-git/
 
 .   Pull Request: #1
 
-    #2. # Formulario de Contacto
+    2. Formulario de Contacto
 
 .   Rama: feature/creacion-formulario
 
