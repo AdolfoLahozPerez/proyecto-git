@@ -13,14 +13,14 @@ Este proyecto es una tarea educativa para aprender Git y GitHub. Consiste en una
 
 ## Información del proyecto
 
-# Autor: Adolfo Lahoz Pérez
-# Estudiante: MPO - ASIR virtual
-# Fecha de creación: Diciembre 2025
-# Última actualización: Diciembre 2025
+Autor: Adolfo Lahoz Pérez
+Estudiante: MPO - ASIR virtual
+Fecha de creación: Diciembre 2025
+Última actualización: Diciembre 2025
 
-# Repositorio GitHub: https://github.com/AdolfoLahozPerez/proyecto-git
-# Tipo de proyecto: Educativo - Práctica Git y GitHub
-# Licencia: Uso educativo
+## Repositorio GitHub: https://github.com/AdolfoLahozPerez/proyecto-git
+Tipo de proyecto: Educativo - Práctica Git y GitHub
+Licencia: Uso educativo
 
 ## Estructura del Proyecto
 
